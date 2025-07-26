@@ -4,15 +4,15 @@ This is a simple C program that manages employee records for ABC COMPANY. It all
 
 📌 Features
 
-  ✅ Add new employee records
-  
-  📋 Display all stored employee information
-  
-  🏅 Show employees who are eligible for a loyalty award (10 or more years of service)
-  
-  💾 Data is stored in a plain text file (record.txt) using a pipe-separated format
+    ✅ Add new employee records
+    
+    📋 Display all stored employee information
+    
+    🏅 Show employees who are eligible for a loyalty award (10 or more years of service)
+    
+    💾 Data is stored in a plain text file (record.txt) using a pipe-separated format
 
-#🛠 How to Use#
+🛠 How to Use
 
   📦 Compile the Program
     Use any C compiler (e.g., GCC):
