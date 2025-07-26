@@ -12,9 +12,7 @@ This is a simple C program that manages employee records for ABC COMPANY. It all
   
   💾 Data is stored in a plain text file (record.txt) using a pipe-separated format
 
-
-
-🛠 How to Use
+#🛠 How to Use#
 
   📦 Compile the Program
     Use any C compiler (e.g., GCC):
