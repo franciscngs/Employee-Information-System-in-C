@@ -14,31 +14,31 @@ This is a simple C program that manages employee records for ABC COMPANY. It all
 
 🛠 How to Use
 
-  📦 Compile the Program
-    Use any C compiler (e.g., GCC):
-    bash
-    gcc employee_system.c -o employee_system
-
-  ▶️ Run the Program
-    bash
-    ./employee_system
+      📦 Compile the Program
+        Use any C compiler (e.g., GCC):
+        bash
+        gcc employee_system.c -o employee_system
+    
+      ▶️ Run the Program
+        bash
+        ./employee_system
 
 🧾 Menu Options
 
-1. Enter new record             -> Input employee data and save to file
-2. Display Employee Information -> View all stored employee records
-3. Display Loyalty Awardees     -> Show employees with 10+ years in service
-4. Exit                         -> Close the program
+    1. Enter new record             -> Input employee data and save to file
+    2. Display Employee Information -> View all stored employee records
+    3. Display Loyalty Awardees     -> Show employees with 10+ years in service
+    4. Exit                         -> Close the program
 
 🗃 Data Format
 
 All records are stored in a file called record.txt with the following format per line:
 
-EmployeeID|EmployeeName|EmployeeAddress|DeptName|Position|YearHired
+    EmployeeID|EmployeeName|EmployeeAddress|DeptName|Position|YearHired
 
 Example:
 
-EMP001|Juan Dela Cruz|123 Buendia St, Manila|IT|Programmer|2010
+    EMP001|Juan Dela Cruz|123 Buendia St, Manila|IT|Programmer|2010
 
 
 🧮 Loyalty Award Logic
@@ -47,9 +47,9 @@ The function yearsInService() calculates how many years the employee has been wi
 
 📁 File Structure
 
-employee_system.c → Main source code
-
-record.txt → Automatically created data file that stores employee records
+    employee_system.c → Main source code
+    
+    record.txt → Automatically created data file that stores employee records
 
 🧑‍💻 Author
 
