@@ -1,4 +1,5 @@
 📁 ABC COMPANY - Employees Information System
+
 This is a simple C program that manages employee records for ABC COMPANY. It allows users to input, view, and evaluate employee data such as ID, name, address, department, position, and year hired. It also determines employees eligible for a Loyalty Award (10+ years of service).
 
 📌 Features
